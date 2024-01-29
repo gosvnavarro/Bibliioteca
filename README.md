@@ -1,2 +1,2 @@
 # Livros
-Livros disponíveis em PDF. | Books available in PDF.
+Livros disponíveis em PDF referente a diversos temas (técnicos, idiomas, etc). | Books available in PDF on various topics (technical, languages, etc.).
